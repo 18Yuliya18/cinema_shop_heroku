@@ -1,8 +1,9 @@
-# Сinema_shop
-"Cinema shop" is a simple application based on the knowledge of Java Core, JDBC, SQL, WEB, Hibernate, Spring.
+# Сinema application
+"Cinema shop" is a application based on the knowledge of Java Core, JDBC, SQL, WEB, Hibernate, Spring. This project allows you to do main CRUD operations, maintains authentication, creation and simulates common ticket-purchase apps. All information is saved to the database. 
 ____
 ## General info
-This project allows you to do main CRUD operations, maintains authentication, creation and simulates common ticket-purchase apps.
+You can find my project on this [link](http://cinemashop.herokuapp.com/login)
+Lets sign in with login: "admin@i.ua", password: "admin123".
 ____
 ## Technologies
 * Java 11
@@ -21,5 +22,3 @@ ____
 2) Fork this project and clone it. 
 3) Create properties in resources/db.properties 
 4) Add Tomcat 9.0.50 configuration.
-____
-Also you can find my project on this [link](http://cinemashop.herokuapp.com/login)
