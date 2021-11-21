@@ -2,7 +2,7 @@
 "Cinema shop" is a application based on the knowledge of Java Core, JDBC, SQL, WEB, Hibernate, Spring. This project allows you to do main CRUD operations, maintains authentication, creation and simulates common ticket-purchase apps. All information is saved to the database. 
 ____
 ## General info
-You can find my project on this [link](http://cinemashop.herokuapp.com/login)
+You can find my project on this [link](http://cinemashop.herokuapp.com/login).
 Lets sign in with login: "admin@i.ua", password: "admin123".
 You can add new models by using [postman](https://www.postman.com/). For example:
 * movie-sessions in JSON format: {"movieId":"1","cinemaHallId":"1","showTime":"20.11.2021 11:11"}
