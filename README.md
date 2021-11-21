@@ -9,8 +9,9 @@ Lets sign in with login: "admin@i.ua", password: "admin123".
 You can add new models by using [postman](https://www.postman.com/). For example:
 * movie-sessions in JSON format: {"movieId":"1","cinemaHallId":"1","showTime":"20.11.2021 11:11"}
 * movie in JSON format: {"movie": "1+1","description": "Wow"}
-* cinema hall in Json format: {"capacity": "100","description": "Boston"}
-Other valid operations yoe can find in SecurityConfig class
+* cinema hall in JSON format: {"capacity": "100","description": "Boston"}
+
+Other valid operations you can find in SecurityConfig class
 ____
 ## Technologies
 * Java 11
