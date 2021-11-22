@@ -1,5 +1,5 @@
 # Сinema application
-"Cinema shop" is a application based on the knowledge of Java Core, JDBC, SQL, WEB, Hibernate, Spring. This project allows you to do main CRUD operations, maintains authentication, creation and simulates common ticket-purchase apps. All information is saved to the database. 
+"Cinema application" is a application based on the knowledge of Java Core, JDBC, SQL, WEB, Hibernate, Spring. This project allows you to do main CRUD operations, maintains authentication, creation and simulates common ticket-purchase apps. All information is saved to the database. 
 ____
 ## General info
 You can find my project on this [link](http://cinemashop.herokuapp.com/login).
